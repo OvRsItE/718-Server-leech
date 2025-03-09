@@ -1,0 +1,24 @@
+{
+  "name": "Dark Demon",
+  "category": "BOSSES",
+  "aliases": [ "ddemon" ],
+  "required": [
+    {
+      "id": 28987
+    },
+    {
+      "id": 28960
+    },
+    {
+      "id": 28959
+    },
+    {
+      "id": 28958
+    },
+    {
+      "id": 28947
+    }
+  ],
+  "type": "boss",
+  "arg": "16089"
+}

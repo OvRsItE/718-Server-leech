@@ -1,0 +1,33 @@
+{
+  "name": "Dagannoth Kings",
+  "category": "BOSSES",
+  "aliases": [ "dks" ],
+  "required": [
+    {
+      "id": 6739
+    },
+    {
+      "id": 6733
+    },
+    {
+      "id": 6731
+    },
+    {
+      "id": 6747
+    },
+    {
+      "id": 6735
+    },
+    {
+      "id": 29836
+    },
+    {
+      "id": 29837
+    },
+    {
+      "id": 29838
+    }
+  ],
+  "type": "boss",
+  "arg": "2881"
+}

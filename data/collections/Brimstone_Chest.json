@@ -1,0 +1,15 @@
+{
+  "name": "Brimstone Chest",
+  "category": "OTHER",
+  "aliases": [ "bchest" ],
+  "required": [
+    {
+      "id": 28658
+    },
+    {
+      "id": 28650
+    }
+  ],
+  "type": "clues",
+  "arg": "bchest"
+}

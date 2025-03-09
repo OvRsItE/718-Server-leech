@@ -1,0 +1,24 @@
+{
+  "name": "Theatre Of Blood",
+  "category": "RAIDS",
+  "aliases": [ "tob", "verzik" ],
+  "required": [
+    {
+      "id": 52477
+    },
+    {
+      "id": 52481
+    },
+    {
+      "id": 52486
+    },
+    {
+      "id": 52324
+    },
+    {
+      "id": 52473
+    }
+  ],
+  "type": "raids",
+  "arg": "tob"
+}

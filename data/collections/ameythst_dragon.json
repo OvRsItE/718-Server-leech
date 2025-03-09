@@ -1,0 +1,27 @@
+{
+  "name": "Ameythst Dragon",
+  "category": "BOSSES",
+  "aliases": [ "adragon" ],
+  "required": [
+    {
+      "id": 28894
+    },
+    {
+      "id": 28898
+    },
+    {
+      "id": 28834
+    },
+    {
+      "id": 28831
+    },
+    {
+      "id": 28825
+    },
+    {
+      "id": 28950
+    }
+  ],
+  "type": "boss",
+  "arg": "16103"
+}

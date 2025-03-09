@@ -1,0 +1,24 @@
+{
+  "name": "Queen Black Dragon",
+  "category": "BOSSES",
+  "aliases": [ "qbd" ],
+  "required": [
+    {
+      "id": 24342
+    },
+    {
+      "id": 24340
+    },
+    {
+      "id": 24344
+    },
+    {
+      "id": 24346
+    },
+    {
+      "id": 24365
+    }
+  ],
+  "type": "boss",
+  "arg": "15506"
+}

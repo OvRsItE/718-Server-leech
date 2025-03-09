@@ -1,0 +1,15 @@
+{
+  "name": "Larran Chest",
+  "category": "OTHER",
+  "aliases": [ "lchest" ],
+  "required": [
+    {
+      "id": 28656
+    },
+    {
+      "id": 28649
+    }
+  ],
+  "type": "OTHER",
+  "arg": "lchest"
+}

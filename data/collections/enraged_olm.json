@@ -1,0 +1,24 @@
+{
+  "name": "Enraged Olm",
+  "category": "BOSSES",
+  "aliases": [ "eolm" ],
+  "required": [
+    {
+      "id": 29466
+    },
+    {
+      "id": 29467
+    },
+    {
+      "id": 28825
+    },
+    {
+      "id": 28831
+    },
+    {
+      "id": 28813
+    }
+  ],
+  "type": "boss",
+  "arg": "16083"
+}

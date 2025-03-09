@@ -1,0 +1,33 @@
+{
+  "name": "Kree'arra",
+  "category": "BOSSES",
+  "aliases": [ "armadyl", "kree" ],
+  "required": [
+    {
+      "id": 11702
+    },
+    {
+      "id": 11718
+    },
+    {
+      "id": 11720
+    },
+    {
+      "id": 11722
+    },
+    {
+      "id": 25013
+    },
+    {
+      "id": 25016
+    },
+    {
+      "id": 25010
+    },
+    {
+      "id": 29850
+    }
+  ],
+  "type": "boss",
+  "arg": "6222"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Bruce",
+  "category": "BOSSES",
+  "aliases": [ "bruce" ],
+  "required": [
+    {
+      "id": 28774
+    },
+    {
+      "id": 28791
+    },
+    {
+      "id": 28746
+    }
+  ],
+  "type": "boss",
+  "arg": "16136"
+}

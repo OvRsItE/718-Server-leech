@@ -1,0 +1,21 @@
+{
+  "name": "Kraken",
+  "category": "BOSSES",
+  "aliases": [ "kraken" ],
+  "required": [
+    {
+      "id": 42004
+    },
+    {
+      "id": 41907
+    },
+    {
+      "id": 42007
+    },
+    {
+      "id": 42655
+    }
+  ],
+  "type": "boss",
+  "arg": "20494"
+}

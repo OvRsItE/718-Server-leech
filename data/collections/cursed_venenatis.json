@@ -1,0 +1,27 @@
+{
+  "name": "Cursed Venenatis",
+  "category": "BOSSES",
+  "aliases": [ "cvenenatis" ],
+  "required": [
+    {
+      "id": 15259
+    },
+    {
+      "id": 29964
+    },
+    {
+      "id": 29511
+    },
+    {
+      "id": 28831
+    },
+    {
+      "id": 28825
+    },
+    {
+      "id": 29856
+    }
+  ],
+  "type": "boss",
+  "arg": "16008"
+}

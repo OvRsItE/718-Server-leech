@@ -1,0 +1,24 @@
+{
+  "name": "Toxic Chest",
+  "category": "OTHER",
+  "aliases": [ "tchest" ],
+  "required": [
+    {
+      "id": 29248
+    },
+    {
+      "id": 29244
+    },
+    {
+      "id": 42922
+    },
+    {
+      "id": 29246
+    },
+    {
+      "id": 29484
+    }
+  ],
+  "type": "OTHER",
+  "arg": "tchest"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tormented Demon",
+  "category": "BOSSES",
+  "aliases": [ "tds" ],
+  "required": [
+    {
+      "id": 14484
+    },
+    {
+      "id": 14474
+    },
+    {
+      "id": 14472
+    },
+    {
+      "id": 14476
+    }
+  ],
+  "type": "boss",
+  "arg": "8439"
+}

@@ -1,0 +1,1452 @@
+24452 10 0 - 2611 3088 0 true
+//Spawned by leighton
+409 10 0 - 3082 3490 0 true
+//Spawned by leighton
+3634 10 0 - 3051 3489 0 true
+//Spawned by muda
+10 10 0 - 3087 3499 0 true
+//Spawned by muda
+43096 10 0 - 3072 3502 0 true
+//Spawned by muda
+26945 10 0 - 3087 3499 0 true
+//Spawned by muda
+15554 10 0 - 3087 3487 0 true
+//Spawned by muda
+4457 10 0 - 3089 3487 0 true
+//Spawned by muda
+7774 10 0 - 3068 3499 0 true
+//Spawned by muda
+10220 10 0 - 2900 4449 1 true
+//Spawned by muda
+10527 10 0 - 3422 3551 1 true
+//Spawned by muda
+592 10 0 - 3085 3499 0 true
+//Spawned by muda
+591 10 0 - 3085 3502 0 true
+//Spawned by muda
+590 10 0 - 3086 3500 0 true
+//Spawned by muda
+549 10 0 - 3086 3500 0 true
+//Spawned by muda
+548 10 0 - 3087 3497 0 true
+//Spawned by muda
+547 10 0 - 3088 3494 0 true
+//Spawned by muda
+111 10 0 - 3086 3492 0 true
+//Spawned by muda
+1454 10 0 - 3085 3491 0 true
+//Spawned by muda
+700 10 0 - 3086 3491 0 true
+//Spawned by muda
+412 10 0 - 3087 3491 0 true
+//Spawned by muda
+477 10 0 - 3086 3493 0 true
+//Spawned by muda
+644 10 0 - 3085 3495 0 true
+//Spawned by muda
+6544 10 0 - 3086 3495 0 true
+//Spawned by muda
+4544 10 0 - 3087 3495 0 true
+//Spawned by muda
+6544 10 0 - 3085 3492 0 true
+//Spawned by muda
+5444 10 0 - 3087 3487 0 true
+//Spawned by muda
+912 10 0 - 3086 3488 0 true
+//Spawned by muda
+914 10 0 - 3085 3488 0 true
+//Spawned by muda
+911 10 0 - 3085 3488 0 true
+//Spawned by muda
+910 10 0 - 3087 3489 0 true
+//Spawned by muda
+912 10 0 - 3085 3490 0 true
+//Spawned by muda
+909 10 0 - 3086 3489 0 true
+//Spawned by muda
+9099 10 0 - 3086 3489 0 true
+//Spawned by muda
+9099 10 0 - 3082 3486 0 true
+//Spawned by muda
+1112 10 0 - 3084 3488 0 true
+//Spawned by muda
+6555 10 0 - 3085 3486 0 true
+//Spawned by muda
+4444 10 0 - 3088 3487 0 true
+//Spawned by muda
+4449 10 0 - 3089 3487 0 true
+//Spawned by muda
+44450 10 0 - 3089 3486 0 true
+//Spawned by muda
+12 10 0 - 3088 3486 0 true
+//Spawned by muda
+9494 10 0 - 3088 3486 0 true
+//Spawned by muda
+11112 10 0 - 3089 3485 0 true
+//Spawned by muda
+1116 10 0 - 3089 3485 0 true
+//Spawned by muda
+1117 10 0 - 3091 3485 0 true
+//Spawned by muda
+1014 10 0 - 3092 3485 0 true
+//Spawned by muda
+6666 10 0 - 3093 3485 0 true
+//Spawned by muda
+11111 10 0 - 3093 3485 0 true
+//Spawned by muda
+100 10 0 - 3093 3485 0 true
+//Spawned by muda
+200 10 0 - 3093 3484 0 true
+//Spawned by muda
+300 10 0 - 3094 3484 0 true
+//Spawned by muda
+400 10 0 - 3094 3483 0 true
+//Spawned by muda
+500 10 0 - 3093 3483 0 true
+//Spawned by muda
+604 10 0 - 3091 3484 0 true
+//Spawned by muda
+231 10 0 - 3091 3484 0 true
+//Spawned by muda
+656 10 0 - 3092 3483 0 true
+//Spawned by muda
+454 10 0 - 3093 3482 0 true
+//Spawned by muda
+450 10 0 - 3092 3481 0 true
+//Spawned by muda
+5664 10 0 - 3094 3481 0 true
+//Spawned by muda
+11113 10 0 - 3103 3489 0 true
+//Spawned by muda
+11115 10 0 - 3102 3492 0 true
+//Spawned by muda
+11118 10 0 - 3103 3491 0 true
+//Spawned by muda
+13337 10 0 - 3104 3492 0 true
+//Spawned by muda
+135555 10 0 - 3105 3493 0 true
+//Spawned by muda
+17773 10 0 - 3107 3494 0 true
+//Spawned by muda
+4111 10 0 - 3109 3494 0 true
+//Spawned by muda
+4112 10 0 - 3109 3493 0 true
+//Spawned by muda
+4113 10 0 - 3110 3493 0 true
+//Spawned by muda
+4114 10 0 - 3111 3494 0 true
+//Spawned by muda
+4116 10 0 - 3112 3495 0 true
+//Spawned by muda
+4118 10 0 - 3112 3494 0 true
+//Spawned by muda
+4120 10 0 - 3113 3494 0 true
+//Spawned by muda
+4130 10 0 - 3113 3494 0 true
+//Spawned by muda
+4140 10 0 - 3113 3494 0 true
+//Spawned by muda
+4140 10 0 - 3114 3494 0 true
+//Spawned by muda
+4141 10 0 - 3114 3494 0 true
+//Spawned by muda
+41452 10 0 - 3114 3494 0 true
+//Spawned by muda
+41453 10 0 - 3113 3495 0 true
+//Spawned by muda
+41451 10 0 - 3113 3495 0 true
+//Spawned by muda
+41439 10 0 - 3113 3495 0 true
+//Spawned by muda
+3000 10 0 - 3087 3497 0 true
+//Spawned by muda
+3000 10 0 - 3087 3500 0 true
+//Spawned by muda
+30000 10 0 - 3087 3500 0 true
+//Spawned by muda
+24452 10 0 - 3087 3501 0 true
+//Spawned by muda
+24452 10 0 - 3087 3502 0 true
+//Spawned by muda
+14452 10 0 - 3087 3503 0 true
+//Spawned by muda
+14452 10 0 - 3086 3502 0 true
+//Spawned by muda
+9140 10 0 - 3087 3499 0 true
+//Spawned by muda
+244523 10 0 - 3087 3497 0 true
+//Spawned by muda
+24452 10 0 - 3087 3497 0 true
+//Spawned by muda
+24452 10 0 - 3086 3496 0 true
+//Spawned by muda
+26945 10 0 - 3085 3502 0 true
+//Spawned by muda
+42611 10 0 - 3085 3502 0 true
+//Spawned by muda
+44820 10 0 - 3086 3499 0 true
+//Spawned by muda
+44829 10 0 - 3086 3499 0 true
+//Spawned by muda
+1265 10 0 - 3086 3497 0 true
+//Spawned by muda
+1264 10 0 - 3086 3494 0 true
+//Spawned by muda
+9463 10 0 - 3086 3489 0 true
+//Spawned by muda
+12 10 0 - 3087 3488 0 true
+//Spawned by muda
+0 10 0 - 3085 3486 0 true
+//Spawned by muda
+5999 10 0 - 3087 3493 0 true
+//Spawned by muda
+45076 10 0 - 3087 3489 0 true
+//Spawned by muda
+1265 10 0 - 3085 3490 0 true
+//Spawned by muda
+1268 10 0 - 3086 3490 0 true
+//Spawned by muda
+4878 10 0 - 3094 3485 0 true
+//Spawned by muda
+4877 10 0 - 3095 3485 0 true
+//Spawned by muda
+22451 10 0 - 2612 3089 0 true
+//Spawned by muda
+22452 10 0 - 2610 3092 0 true
+//Spawned by muda
+11452 10 0 - 2609 3092 0 true
+//Spawned by muda
+22452 10 0 - 2608 3093 0 true
+//Spawned by muda
+11452 10 0 - 2608 3092 0 true
+//Spawned by muda
+11452 10 0 - 2607 3092 0 true
+//Spawned by muda
+24452 10 0 - 2606 3092 0 true
+//Spawned by muda
+377 10 0 - 2596 3108 1 true
+//Spawned by muda
+3511 10 0 - 2612 3098 0 true
+//Spawned by muda
+2411 10 0 - 2611 3099 0 true
+//Spawned by muda
+12982 10 0 - 2721 9680 0 true
+//Spawned by muda
+12982 10 0 - 2720 9683 0 true
+//Spawned by muda
+12983 10 0 - 2721 9683 0 true
+//Spawned by muda
+18804 10 0 - 2722 9682 0 true
+//Spawned by muda
+2587 10 0 - 2734 9689 0 true
+//Spawned by muda
+2566 10 0 - 2733 9687 0 true
+//Spawned by muda
+6778 10 0 - 2735 9687 0 true
+//Spawned by muda
+5163 10 0 - 2735 9691 0 true
+//Spawned by muda
+73 10 0 - 2614 3144 0 true
+//Spawned by muda
+73 10 0 - 2614 3144 0 true
+//Spawned by muda
+7350 10 0 - 2614 3144 0 true
+//Spawned by muda
+7349 10 0 - 2615 3144 0 true
+//Spawned by muda
+4874 10 0 - 2619 3090 0 true
+//Spawned by muda
+4874 10 0 - 2618 3082 0 true
+//Spawned by muda
+4875 10 0 - 2617 3083 0 true
+//Spawned by muda
+4876 10 0 - 2616 3084 0 true
+//Spawned by muda
+4877 10 0 - 2615 3085 0 true
+//Spawned by muda
+4878 10 0 - 2619 3083 0 true
+//Spawned by muda
+4874 10 0 - 2604 3100 0 true
+//Spawned by muda
+4875 10 0 - 2603 3100 0 true
+//Spawned by muda
+4876 10 0 - 2602 3100 0 true
+//Spawned by muda
+4877 10 0 - 2601 3100 0 true
+//Spawned by muda
+14860 10 0 - 2602 3094 0 true
+//Spawned by muda
+4874 10 0 - 2602 3094 0 true
+//Spawned by muda
+6552 10 0 - 2602 3094 0 true
+//Spawned by muda
+17010 10 0 - 2602 3093 0 true
+//Spawned by muda
+17010 10 0 - 2603 3100 0 true
+//Spawned by muda
+17010 10 0 - 2603 3099 0 true
+//Spawned by muda
+17010 10 0 - 2600 3105 0 true
+//Spawned by muda
+409 10 0 - 2600 3092 0 true
+//Spawned by muda
+1 10 0 - 2603 3092 0 true
+//Spawned by muda
+1 10 0 - 2602 3092 0 true
+//Spawned by muda
+2 10 0 - 2604 3092 0 true
+//Spawned by muda
+4 10 0 - 2606 3086 0 true
+//Spawned by muda
+5 10 0 - 2605 3086 0 true
+//Spawned by muda
+6 10 0 - 2603 3087 0 true
+//Spawned by muda
+7 10 0 - 2602 3086 0 true
+//Spawned by muda
+8 10 0 - 2600 3087 0 true
+//Spawned by muda
+10 10 0 - 2600 3087 0 true
+//Spawned by muda
+20 10 0 - 2600 3087 0 true
+//Spawned by muda
+20 10 0 - 2600 3088 0 true
+//Spawned by muda
+15 10 0 - 2599 3087 0 true
+//Spawned by muda
+30 10 0 - 2599 3087 0 true
+//Spawned by muda
+31 10 0 - 2599 3088 0 true
+//Spawned by muda
+32 10 0 - 2598 3087 0 true
+//Spawned by muda
+33 10 0 - 2598 3087 0 true
+//Spawned by muda
+34 10 0 - 2598 3087 0 true
+//Spawned by muda
+36 10 0 - 2598 3088 0 true
+//Spawned by muda
+36 10 0 - 2599 3089 0 true
+//Spawned by muda
+38 10 0 - 2600 3089 0 true
+//Spawned by muda
+40 10 0 - 2600 3089 0 true
+//Spawned by muda
+41 10 0 - 2600 3088 0 true
+//Spawned by muda
+42 10 0 - 2601 3088 0 true
+//Spawned by muda
+43 10 0 - 2601 3087 0 true
+//Spawned by muda
+44 10 0 - 2601 3087 0 true
+//Spawned by muda
+45 10 0 - 2601 3087 0 true
+//Spawned by muda
+46 10 0 - 2601 3087 1 true
+//Spawned by muda
+47 10 0 - 2601 3087 1 true
+//Spawned by muda
+48 10 0 - 2601 3087 1 true
+//Spawned by muda
+51 10 0 - 2601 3087 1 true
+//Spawned by muda
+60 10 0 - 2601 3087 1 true
+//Spawned by muda
+61 10 0 - 2601 3086 1 true
+//Spawned by muda
+62 10 0 - 2600 3087 1 true
+//Spawned by muda
+63 10 0 - 2599 3086 1 true
+//Spawned by muda
+64 10 0 - 2599 3086 1 true
+//Spawned by muda
+65 10 0 - 2599 3086 1 true
+//Spawned by muda
+66 10 0 - 2599 3086 1 true
+//Spawned by muda
+67 10 0 - 2599 3086 1 true
+//Spawned by muda
+68 10 0 - 2599 3087 1 true
+//Spawned by muda
+69 10 0 - 2599 3087 1 true
+//Spawned by muda
+70 10 0 - 2599 3087 1 true
+//Spawned by muda
+71 10 0 - 2599 3087 1 true
+//Spawned by muda
+72 10 0 - 2599 3087 1 true
+//Spawned by muda
+73 10 0 - 2599 3087 1 true
+//Spawned by muda
+74 10 0 - 2599 3087 1 true
+//Spawned by muda
+75 10 0 - 2599 3087 1 true
+//Spawned by muda
+76 10 0 - 2599 3087 1 true
+//Spawned by muda
+77 10 0 - 2599 3087 1 true
+//Spawned by muda
+78 10 0 - 2599 3087 1 true
+//Spawned by muda
+79 10 0 - 2599 3087 1 true
+//Spawned by muda
+85 10 0 - 2599 3087 1 true
+//Spawned by muda
+90 10 0 - 2599 3087 1 true
+//Spawned by muda
+100 10 0 - 2599 3087 1 true
+//Spawned by muda
+200 10 0 - 2599 3087 1 true
+//Spawned by muda
+200 10 0 - 2603 3092 0 true
+//Spawned by muda
+0 10 0 - 2602 3092 0 true
+//Spawned by muda
+0 10 0 - 2601 3094 0 true
+//Spawned by muda
+-1 10 0 - 2602 3094 0 true
+//Spawned by muda
+0 10 0 - 2602 3094 0 true
+//Spawned by muda
+0 10 0 - 2604 3094 0 true
+//Spawned by muda
+0 10 0 - 2603 3094 0 true
+//Spawned by muda
+203 10 0 - 2602 3090 0 true
+//Spawned by muda
+204 10 0 - 2603 3090 0 true
+//Spawned by muda
+205 10 0 - 2604 3090 0 true
+//Spawned by muda
+206 10 0 - 2605 3090 0 true
+//Spawned by muda
+201 10 0 - 2604 3090 0 true
+//Spawned by muda
+203 10 0 - 2604 3089 0 true
+//Spawned by muda
+204 10 0 - 2604 3088 0 true
+//Spawned by muda
+206 10 0 - 2604 3087 0 true
+//Spawned by muda
+207 10 0 - 2604 3086 0 true
+//Spawned by muda
+208 10 0 - 2603 3087 0 true
+//Spawned by muda
+209 10 0 - 2602 3088 0 true
+//Spawned by muda
+210 10 0 - 2602 3087 0 true
+//Spawned by muda
+219 10 0 - 2602 3087 0 true
+//Spawned by muda
+204 10 0 - 2601 3088 0 true
+//Spawned by muda
+304 10 0 - 2601 3087 0 true
+//Spawned by muda
+306 10 0 - 2601 3086 0 true
+//Spawned by muda
+307 10 0 - 2601 3086 0 true
+//Spawned by muda
+308 10 0 - 2601 3086 0 true
+//Spawned by muda
+3209 10 0 - 2601 3086 0 true
+//Spawned by muda
+309 10 0 - 2601 3086 0 true
+//Spawned by muda
+310 10 0 - 2601 3086 0 true
+//Spawned by muda
+322 10 0 - 2601 3086 0 true
+//Spawned by muda
+330 10 0 - 2601 3086 0 true
+//Spawned by muda
+335 10 0 - 2601 3086 0 true
+//Spawned by muda
+340 10 0 - 2601 3086 0 true
+//Spawned by muda
+350 10 0 - 2601 3086 0 true
+//Spawned by muda
+360 10 0 - 2602 3084 0 true
+//Spawned by muda
+370 10 0 - 2602 3084 0 true
+//Spawned by muda
+380 10 0 - 2603 3084 0 true
+//Spawned by muda
+390 10 0 - 2604 3084 0 true
+//Spawned by muda
+400 10 0 - 2605 3084 0 true
+//Spawned by muda
+405 10 0 - 2606 3084 0 true
+//Spawned by muda
+406 10 0 - 2607 3084 0 true
+//Spawned by muda
+408 10 0 - 2607 3084 0 true
+//Spawned by muda
+409 10 0 - 2607 3084 0 true
+//Spawned by muda
+410 10 0 - 2607 3084 0 true
+//Spawned by muda
+11 10 0 - 2607 3084 0 true
+//Spawned by muda
+411 10 0 - 2607 3084 0 true
+//Spawned by muda
+4112 10 0 - 2608 3083 0 true
+//Spawned by muda
+410 10 0 - 2610 3084 0 true
+//Spawned by muda
+430 10 0 - 2611 3086 0 true
+//Spawned by muda
+205 10 0 - 2610 3087 0 true
+//Spawned by muda
+410 10 0 - 2609 3086 0 true
+//Spawned by muda
+500 10 0 - 2609 3086 0 true
+//Spawned by muda
+300 10 0 - 2609 3086 0 true
+//Spawned by muda
+321 10 0 - 2609 3086 0 true
+//Spawned by muda
+310 10 0 - 2609 3086 0 true
+//Spawned by muda
+320 10 0 - 2609 3086 0 true
+//Spawned by muda
+1001 10 0 - 2061 3086 1 true
+//Spawned by muda
+1002 10 0 - 2061 3086 1 true
+//Spawned by muda
+1003 10 0 - 2061 3086 1 true
+//Spawned by muda
+1010 10 0 - 2061 3086 1 true
+//Spawned by muda
+1012 10 0 - 2061 3086 1 true
+//Spawned by muda
+1013 10 0 - 2061 3086 1 true
+//Spawned by muda
+1014 10 0 - 2061 3086 1 true
+//Spawned by muda
+1015 10 0 - 2061 3086 1 true
+//Spawned by muda
+1016 10 0 - 2061 3086 1 true
+//Spawned by muda
+1017 10 0 - 2061 3086 1 true
+//Spawned by muda
+1018 10 0 - 2061 3086 1 true
+//Spawned by muda
+1020 10 0 - 2061 3086 1 true
+//Spawned by muda
+1021 10 0 - 2061 3086 1 true
+//Spawned by muda
+1023 10 0 - 2061 3086 1 true
+//Spawned by muda
+1022 10 0 - 2061 3086 1 true
+//Spawned by muda
+1024 10 0 - 2061 3086 1 true
+//Spawned by muda
+1025 10 0 - 2061 3086 1 true
+//Spawned by muda
+1026 10 0 - 2061 3086 1 true
+//Spawned by muda
+1027 10 0 - 2061 3086 1 true
+//Spawned by muda
+1028 10 0 - 2061 3086 1 true
+//Spawned by muda
+1029 10 0 - 2061 3086 1 true
+//Spawned by muda
+1030 10 0 - 2061 3086 1 true
+//Spawned by muda
+1032 10 0 - 2061 3086 1 true
+//Spawned by muda
+1033 10 0 - 2061 3087 1 true
+//Spawned by muda
+1034 10 0 - 2061 3087 1 true
+//Spawned by muda
+1035 10 0 - 2061 3087 1 true
+//Spawned by muda
+1036 10 0 - 2061 3087 1 true
+//Spawned by muda
+1037 10 0 - 2061 3087 1 true
+//Spawned by muda
+1039 10 0 - 2061 3087 1 true
+//Spawned by muda
+10387 10 0 - 2061 3087 1 true
+//Spawned by muda
+1039 10 0 - 2061 3087 1 true
+//Spawned by muda
+1040 10 0 - 2061 3087 1 true
+//Spawned by muda
+1050 10 0 - 2061 3087 1 true
+//Spawned by muda
+1060 10 0 - 2061 3087 1 true
+//Spawned by muda
+1062 10 0 - 2061 3087 1 true
+//Spawned by muda
+1068 10 0 - 2061 3087 1 true
+//Spawned by muda
+1069 10 0 - 2061 3087 1 true
+//Spawned by muda
+1070 10 0 - 2061 3087 1 true
+//Spawned by muda
+1071 10 0 - 2061 3087 1 true
+//Spawned by muda
+1072 10 0 - 2061 3087 1 true
+//Spawned by muda
+1073 10 0 - 2061 3087 1 true
+//Spawned by muda
+1075 10 0 - 2061 3087 1 true
+//Spawned by muda
+1085 10 0 - 2061 3087 1 true
+//Spawned by muda
+1086 10 0 - 2061 3087 1 true
+//Spawned by muda
+1087 10 0 - 2061 3087 1 true
+//Spawned by muda
+1088 10 0 - 2061 3087 1 true
+//Spawned by muda
+1089 10 0 - 2061 3087 1 true
+//Spawned by muda
+1099 10 0 - 2061 3087 1 true
+//Spawned by muda
+10200 10 0 - 2062 3087 1 true
+//Spawned by muda
+11021 10 0 - 2062 3087 1 true
+//Spawned by muda
+10000 10 0 - 2063 3088 1 true
+//Spawned by muda
+10001 10 0 - 2063 3088 1 true
+//Spawned by muda
+13211 10 0 - 2063 3088 1 true
+//Spawned by muda
+13213 10 0 - 2064 3088 1 true
+//Spawned by muda
+13210 10 0 - 2065 3088 1 true
+//Spawned by muda
+13200 10 0 - 2066 3088 1 true
+//Spawned by muda
+13154 10 0 - 2067 3089 1 true
+//Spawned by muda
+12301 10 0 - 2067 3088 1 true
+//Spawned by muda
+12302 10 0 - 2067 3087 1 true
+//Spawned by muda
+12304 10 0 - 2067 3087 1 true
+//Spawned by muda
+12306 10 0 - 2067 3087 1 true
+//Spawned by muda
+12309 10 0 - 2067 3087 1 true
+//Spawned by muda
+12307 10 0 - 2067 3087 1 true
+//Spawned by muda
+12305 10 0 - 2067 3087 1 true
+//Spawned by muda
+10234 10 0 - 2067 3087 1 true
+//Spawned by muda
+9451 10 0 - 2067 3086 1 true
+//Spawned by muda
+9654 10 0 - 2067 3085 1 true
+//Spawned by muda
+3214 10 0 - 2067 3085 1 true
+//Spawned by muda
+1240 10 0 - 2067 3085 1 true
+//Spawned by muda
+3214 10 0 - 2067 3085 1 true
+//Spawned by muda
+4547 10 0 - 2067 3085 1 true
+//Spawned by muda
+0 10 0 - 2604 3105 0 true
+//Spawned by muda
+0 10 0 - 2604 3105 0 true
+//Spawned by muda
+-1 10 0 - 2604 3105 0 true
+//Spawned by muda
+0 10 0 - 2604 3105 0 true
+//Spawned by muda
+0 10 0 - 2603 3105 0 true
+//Spawned by muda
+1 10 0 - 2603 3105 0 true
+//Spawned by muda
+1 10 0 - 2604 3105 0 true
+//Spawned by muda
+409 10 0 - 2606 3105 0 true
+//Spawned by muda
+43096 10 0 - 2552 3089 0 true
+//Spawned by muda
+43096 10 0 - 2551 3088 0 true
+//Spawned by muda
+43096 10 0 - 2552 3088 0 true
+//Spawned by muda
+0 10 0 - 2607 3094 0 true
+//Spawned by muda
+0 10 0 - 2607 3091 0 true
+//Spawned by muda
+2380 10 0 - 2599 3100 0 true
+//Spawned by muda
+2380 10 0 - 2601 3096 0 true
+//Spawned by muda
+2380 10 0 - 2606 3089 0 true
+//Spawned by muda
+2380 10 0 - 2606 3088 0 true
+//Spawned by muda
+0 10 0 - 2604 3100 0 true
+//Spawned by muda
+0 10 0 - 2601 3096 0 true
+//Spawned by muda
+-1 10 0 - 2601 3092 0 true
+//Spawned by muda
+-1 10 0 - 2602 3091 0 true
+//Spawned by muda
+-1 10 0 - 2602 3092 0 true
+//Spawned by muda
+-1 10 0 - 2602 3093 0 true
+//Spawned by muda
+-1 10 0 - 2601 3093 0 true
+//Spawned by muda
+11922 10 0 - 3218 3425 0 true
+//Spawned by muda
+4411 10 0 - 2596 3098 0 true
+//Spawned by muda
+4411 10 0 - 2601 3096 0 true
+//Spawned by muda
+4411 10 0 - 2602 3092 0 true
+//Spawned by muda
+17010 10 0 - 2592 3102 0 true
+//Spawned by muda
+12355 10 0 - 2592 3102 0 true
+//Spawned by muda
+15482 10 0 - 2592 3102 0 true
+//Spawned by muda
+14860 10 0 - 2592 3102 0 true
+//Spawned by muda
+6552 10 0 - 2592 3102 0 true
+//Spawned by muda
+1187 10 0 - 2604 3100 0 true
+//Spawned by muda
+1187 10 0 - 2602 3095 0 true
+//Spawned by muda
+1187 10 0 - 2601 3095 0 true
+//Spawned by muda
+1187 10 0 - 2601 3094 0 true
+//Spawned by muda
+1187 10 0 - 2602 3094 0 true
+//Spawned by muda
+1187 10 0 - 2601 3093 0 true
+//Spawned by muda
+11857 10 0 - 2602 3093 0 true
+//Spawned by muda
+1187 10 0 - 2602 3093 0 true
+//Spawned by muda
+1187 10 0 - 2601 3092 0 true
+//Spawned by muda
+1187 10 0 - 2602 3092 0 true
+//Spawned by muda
+1187 10 0 - 2606 3089 0 true
+//Spawned by muda
+1187 10 0 - 2607 3088 0 true
+//Spawned by muda
+1187 10 0 - 2607 3089 0 true
+//Spawned by muda
+1187 10 0 - 2608 3089 0 true
+//Spawned by muda
+1190 10 0 - 2608 3089 0 true
+//Spawned by muda
+1192 10 0 - 2607 3089 0 true
+//Spawned by muda
+3905 10 0 - 2607 3088 0 true
+//Spawned by muda
+7840 10 0 - 2607 3087 0 true
+//Spawned by muda
+6518 10 0 - 2607 3087 0 true
+//Spawned by muda
+6518 10 0 - 2602 3095 0 true
+//Spawned by muda
+6518 10 0 - 2603 3094 0 true
+//Spawned by muda
+6518 10 0 - 2601 3096 0 true
+//Spawned by muda
+6518 10 0 - 2600 3096 0 true
+//Spawned by muda
+6518 10 0 - 2599 3096 0 true
+//Spawned by muda
+6518 10 0 - 2598 3096 0 true
+//Spawned by muda
+6518 10 0 - 2597 3096 0 true
+//Spawned by muda
+31447 10 0 - 2608 3099 0 true
+//Spawned by muda
+37847 10 0 - 2608 3100 0 true
+//Spawned by muda
+27074 10 0 - 2607 3100 0 true
+//Spawned by muda
+27047 10 0 - 2599 3094 0 true
+//Spawned by muda
+27074 10 0 - 2599 3094 0 true
+//Spawned by muda
+25420 10 0 - 2597 3097 0 true
+//Spawned by muda
+22808 10 0 - 2599 3097 0 true
+//Spawned by muda
+61920 10 0 - 2599 3097 0 true
+//Spawned by muda
+74533 10 0 - 2599 3097 0 true
+//Spawned by muda
+37840 10 0 - 2598 3097 0 true
+//Spawned by muda
+56693 10 0 - 2597 3097 0 true
+//Spawned by muda
+84222 10 0 - 2597 3097 0 true
+//Spawned by muda
+6518 10 0 - 2602 3095 0 true
+//Spawned by muda
+6518 10 0 - 2602 3094 0 true
+//Spawned by muda
+6518 10 0 - 2601 3094 0 true
+//Spawned by muda
+1187 10 0 - 2601 3094 0 true
+//Spawned by muda
+1187 10 0 - 2603 3094 0 true
+//Spawned by muda
+1187 10 0 - 2601 3096 0 true
+//Spawned by muda
+-1 10 0 - 2607 3094 0 true
+//Spawned by muda
+1187 10 0 - 2611 3098 0 true
+//Spawned by muda
+1187 10 0 - 2607 3091 0 true
+//Spawned by muda
+0 10 0 - 2607 3091 0 true
+//Spawned by muda
+1187 10 0 - 2607 3091 0 true
+//Spawned by muda
+1187 10 0 - 2607 3094 0 true
+//Spawned by muda
+1187 10 0 - 2608 3094 0 true
+//Spawned by muda
+1187 10 0 - 2608 3091 0 true
+//Spawned by muda
+1187 10 0 - 2601 3096 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2602 3092 0 true
+//Spawned by muda
+1187 10 0 - 2612 3099 0 true
+//Spawned by muda
+1187 10 0 - 2611 3099 0 true
+//Spawned by muda
+1187 10 0 - 2611 3098 0 true
+//Spawned by muda
+1187 10 0 - 2611 3098 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2611 3098 0 true
+//Spawned by muda
+1187 10 0 - 2601 3095 0 true
+//Spawned by muda
+1187 10 0 - 2601 3094 0 true
+//Spawned by muda
+0 10 0 - 2601 3096 0 true
+//Spawned by muda
+-1 10 0 - 2601 3096 0 true
+//Spawned by muda
+44 10 0 - 2601 3096 0 true
+//Spawned by muda
+45 10 0 - 2601 3096 0 true
+//Spawned by muda
+46 10 0 - 2601 3096 0 true
+//Spawned by muda
+47 10 0 - 2601 3096 0 true
+//Spawned by muda
+8133 10 0 - 2604 3100 0 true
+//Spawned by muda
+1187 10 0 - 2604 3100 0 true
+//Spawned by muda
+11 10 0 - 2040 5719 0 true
+//Spawned by muda
+12 10 0 - 2040 5719 0 true
+//Spawned by muda
+13 10 0 - 2040 5719 0 true
+//Spawned by muda
+0 10 0 - 2040 5719 0 true
+//Spawned by muda
+15 10 0 - 2040 5719 0 true
+//Spawned by muda
+16 10 0 - 2040 5719 0 true
+//Spawned by muda
+21 10 0 - 2040 5719 0 true
+//Spawned by muda
+219 10 0 - 2040 5719 0 true
+//Spawned by muda
+15 10 0 - 2040 5719 0 true
+//Spawned by muda
+30 10 0 - 2040 5719 0 true
+//Spawned by muda
+12258 10 0 - 2605 3092 0 true
+//Spawned by muda
+47748 10 0 - 2605 3097 0 true
+//Spawned by muda
+447748 10 0 - 2601 3104 0 true
+//Spawned by muda
+47748 10 0 - 2601 3104 0 true
+//Spawned by muda
+47758 10 0 - 2602 3095 0 true
+//Spawned by muda
+88921 10 0 - 2601 3095 0 true
+//Spawned by muda
+47760 10 0 - 2601 3095 0 true
+//Spawned by muda
+47760 10 0 - 2602 3094 0 true
+//Spawned by muda
+47760 10 0 - 2601 3094 0 true
+//Spawned by muda
+47760 10 0 - 2601 3093 0 true
+//Spawned by muda
+1187 10 0 - 2601 3106 0 true
+//Spawned by muda
+1187 10 0 - 2601 3106 0 true
+//Spawned by muda
+1187 10 0 - 2600 3105 0 true
+//Spawned by muda
+56933 10 0 - 2600 3105 0 true
+//Spawned by muda
+65857 10 0 - 2600 3105 0 true
+//Spawned by muda
+65996 10 0 - 2600 3105 0 true
+//Spawned by muda
+65999 10 0 - 2600 3105 0 true
+//Spawned by muda
+56933 10 0 - 2600 3105 0 true
+//Spawned by muda
+56933 10 0 - 2600 3104 0 true
+//Spawned by muda
+65857 10 0 - 2600 3104 0 true
+//Spawned by muda
+47758 10 0 - 2601 3103 0 true
+//Spawned by muda
+47758 10 0 - 2601 3104 0 true
+//Spawned by muda
+88921 10 0 - 2602 3105 0 true
+//Spawned by muda
+47760 10 0 - 2602 3105 0 true
+//Spawned by muda
+47762 10 0 - 2601 3104 0 true
+//Spawned by muda
+447761 10 0 - 2600 3105 0 true
+//Spawned by muda
+47761 10 0 - 2600 3105 0 true
+//Spawned by muda
+47762 10 0 - 2601 3106 0 true
+//Spawned by muda
+47761 10 0 - 2602 3104 0 true
+//Spawned by muda
+47760 10 0 - 2600 3104 0 true
+//Spawned by muda
+47760 10 0 - 2603 3102 0 true
+//Spawned by muda
+47763 10 0 - 2603 3107 0 true
+//Spawned by muda
+47764 10 0 - 2602 3106 0 true
+//Spawned by muda
+47758 10 0 - 2601 3104 0 true
+//Spawned by muda
+47759 10 0 - 2602 3104 0 true
+//Spawned by muda
+1 10 0 - 2600 3104 0 true
+//Spawned by muda
+47760 10 0 - 2599 3104 0 true
+//Spawned by muda
+47758 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 1759 5088 2 true
+//Spawned by muda
+1187 10 0 - 1760 5088 2 true
+//Spawned by muda
+1187 10 0 - 1760 5087 2 true
+//Spawned by muda
+1187 10 0 - 1759 5087 2 true
+//Spawned by muda
+66005 10 0 - 2600 3100 0 true
+//Spawned by muda
+66005 10 0 - 2599 3100 0 true
+//Spawned by muda
+11 10 0 - 2532 3545 1 true
+//Spawned by muda
+101 10 0 - 2532 3545 1 true
+//Spawned by muda
+287 10 0 - 2605 3093 0 true
+//Spawned by muda
+28297 10 0 - 2606 3095 0 true
+//Spawned by muda
+28297 10 0 - 2604 3097 0 true
+//Spawned by muda
+15681 10 0 - 2606 3094 0 true
+//Spawned by muda
+9231 10 0 - 2603 3098 0 true
+//Spawned by muda
+9224 10 0 - 2605 3098 0 true
+//Spawned by muda
+2492 10 0 - 2605 3098 0 true
+//Spawned by muda
+88914 10 0 - 2598 3099 0 true
+//Spawned by muda
+88922 10 0 - 2597 3098 0 true
+//Spawned by muda
+66005 10 0 - 2597 3098 0 true
+//Spawned by muda
+66005 10 0 - 2599 3100 0 true
+//Spawned by muda
+1199 10 0 - 2606 3100 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+6700 10 0 - 2603 3087 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+8177 10 0 - 2606 3088 0 true
+//Spawned by muda
+8177 10 0 - 2611 3098 0 true
+//Spawned by muda
+1187 10 0 - 2611 3098 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1187 10 0 - 2606 3088 0 true
+//Spawned by muda
+1264 10 0 - 3082 3506 0 true
+//Spawned by muda
+1162 10 0 - 3082 3506 0 true
+//Spawned by muda
+1265 10 0 - 3082 3506 0 true
+//Spawned by muda
+1264 10 0 - 3082 3506 0 true
+//Spawned by muda
+1 10 0 - 3083 3506 0 true
+//Spawned by muda
+1 10 0 - 3105 3497 0 true
+//Spawned by muda
+1 10 0 - 3106 3497 0 true
+//Spawned by muda
+1 10 0 - 3111 3503 0 true
+//Spawned by muda
+1 10 0 - 3110 3503 0 true
+//Spawned by muda
+1 10 0 - 3109 3503 0 true
+//Spawned by muda
+1 10 0 - 3108 3503 0 true
+//Spawned by muda
+1 10 0 - 3107 3503 0 true
+//Spawned by muda
+1 10 0 - 3106 3503 0 true
+//Spawned by muda
+1 10 0 - 3105 3503 0 true
+//Spawned by muda
+1 10 0 - 3111 3504 0 true
+//Spawned by muda
+1 10 0 - 3111 3505 0 true
+//Spawned by muda
+1 10 0 - 3111 3506 0 true
+//Spawned by muda
+1 10 0 - 3111 3507 0 true
+//Spawned by muda
+1 10 0 - 3111 3508 0 true
+//Spawned by muda
+1 10 0 - 3110 3508 0 true
+//Spawned by muda
+1 10 0 - 3109 3508 0 true
+//Spawned by muda
+1 10 0 - 3108 3508 0 true
+//Spawned by muda
+1 10 0 - 3107 3508 0 true
+//Spawned by muda
+1 10 0 - 3106 3508 0 true
+//Spawned by muda
+1 10 0 - 3105 3508 0 true
+//Spawned by muda
+1 10 0 - 3090 3506 0 true
+//Spawned by muda
+1 10 0 - 3091 3506 0 true
+//Spawned by muda
+1 10 0 - 3092 3506 0 true
+//Spawned by muda
+1 10 0 - 3093 3506 0 true
+//Spawned by muda
+1 10 0 - 3093 3506 1 true
+//Spawned by muda
+1 10 0 - 3088 3486 0 true
+//Spawned by muda
+1 10 0 - 3088 3485 0 true
+//Spawned by muda
+1 10 0 - 3088 3483 0 true
+//Spawned by muda
+1 10 0 - 3088 3484 0 true
+//Spawned by muda
+1 10 0 - 3087 3483 0 true
+//Spawned by muda
+1 10 0 - 3086 3483 0 true
+//Spawned by muda
+1 10 0 - 3085 3483 0 true
+//Spawned by muda
+1 10 0 - 3084 3483 0 true
+//Spawned by muda
+1 10 0 - 3084 3484 0 true
+//Spawned by muda
+1 10 0 - 3084 3485 0 true
+//Spawned by muda
+1 10 0 - 3084 3486 0 true
+//Spawned by muda
+1 10 0 - 3077 3483 0 true
+//Spawned by muda
+1 10 0 - 3077 3484 0 true
+//Spawned by muda
+1 10 0 - 3077 3485 0 true
+//Spawned by muda
+1 10 0 - 3077 3486 0 true
+//Spawned by muda
+1 10 0 - 3077 3487 0 true
+//Spawned by muda
+1 10 0 - 3077 3488 0 true
+//Spawned by muda
+1 10 0 - 3078 3488 0 true
+//Spawned by muda
+1 10 0 - 3079 3488 0 true
+//Spawned by muda
+1 10 0 - 3080 3488 0 true
+//Spawned by muda
+1 10 0 - 3081 3488 0 true
+//Spawned by muda
+1 10 0 - 3078 3483 0 true
+//Spawned by muda
+1 10 0 - 3079 3483 0 true
+//Spawned by muda
+1 10 0 - 3080 3483 0 true
+//Spawned by muda
+1496 10 0 - 3088 3497 0 true
+//Spawned by muda
+1496 10 0 - 3088 3496 0 true
+//Spawned by muda
+1495 10 0 - 3088 3495 0 true
+//Spawned by muda
+66519 10 0 - 2895 3447 0 true
+//Spawned by muda
+66518 10 0 - 2895 3447 0 true
+//Spawned by muda
+66517 10 0 - 2895 3447 0 true
+//Spawned by muda
+66518 10 0 - 2895 3447 0 true
+//Spawned by muda
+66519 10 0 - 2894 3446 0 true
+//Spawned by muda
+66520 10 0 - 2894 3446 0 true
+//Spawned by muda
+66521 10 0 - 2894 3446 0 true
+//Spawned by muda
+66522 10 0 - 2894 3446 0 true
+//Spawned by muda
+66523 10 0 - 2894 3446 0 true
+//Spawned by muda
+66524 10 0 - 2894 3446 0 true
+//Spawned by muda
+66525 10 0 - 2894 3446 0 true
+//Spawned by corey
+67968 10 0 - 2607 2849 0 true
+//Spawned by corey
+57437 10 0 - 5748 4797 2 true
+//Spawned by corey
+57437 10 2 - 5748 4797 2 true
+//Spawned by corey
+57437 10 1 - 5748 4797 2 true
+//Spawned by corey
+57437 10 1 - 5748 4797 2 true
+//Spawned by corey
+57437 10 4 - 5748 4797 2 true
+//Spawned by corey
+57437 10 3 - 5748 4797 2 true
+//Spawned by corey
+5999 10 3 - 5748 4799 2 true
+//Spawned by corey
+14859 10 1 - 5748 4802 2 true
+//Spawned by corey
+14859 10 2 - 5748 4802 2 true
+//Spawned by corey
+14859 10 2 - 5748 4803 2 true
+//Spawned by corey
+14859 10 2 - 5748 4804 2 true
+//Spawned by corey
+57437 10 3 - 5748 4806 2 true
+//Spawned by corey
+61330 10 0 - 5753 4811 2 true
+//Spawned by corey
+61330 10 2 - 5753 4811 2 true
+//Spawned by corey
+61330 10 3 - 5753 4811 2 true
+//Spawned by corey
+61330 10 3 - 5753 4810 2 true
+//Spawned by corey
+-1 10 0 - 5753 4811 2 true
+//Spawned by corey
+57437 10 0 - 5751 4811 2 true
+//Spawned by corey
+6150 10 0 - 5759 4811 2 true
+//Spawned by corey
+6150 10 0 - 5760 4811 2 true
+//Spawned by corey
+57437 10 0 - 5762 4811 2 true
+//Spawned by corey
+114 10 0 - 5765 4811 2 true
+//Spawned by corey
+114 10 2 - 5765 4811 2 true
+//Spawned by corey
+114 10 3 - 5765 4811 2 true
+//Spawned by corey
+114 10 4 - 5765 4811 2 true
+//Spawned by corey
+114 10 1 - 5765 4811 2 true
+//Spawned by corey
+37821 10 1 - 5769 4811 2 true
+//Spawned by corey
+37821 10 1 - 5768 4811 2 true
+//Spawned by corey
+37821 10 1 - 5771 4811 2 true
+//Spawned by corey
+37821 10 1 - 5770 4811 2 true
+//Spawned by corey
+57437 10 1 - 5772 4808 2 true
+//Spawned by corey
+50205 10 1 - 5772 4805 2 true
+//Spawned by corey
+409 10 1 - 5772 4802 2 true
+//Spawned by corey
+409 10 2 - 5772 4802 2 true
+//Spawned by corey
+409 10 3 - 5772 4802 2 true
+//Spawned by corey
+57437 10 1 - 5772 4799 2 true
+//Spawned by corey
+17010 10 1 - 5761 4789 2 true
+//Spawned by corey
+57427 10 1 - 5766 4789 2 true
+//Spawned by corey
+57437 10 1 - 5766 4789 2 true
+//Spawned by corey
+57437 10 2 - 5766 4789 2 true
+//Spawned by corey
+47120 10 1 - 5758 4790 2 true
+//Spawned by corey
+47120 10 2 - 5758 4790 2 true
+//Spawned by corey
+47120 10 2 - 5758 4789 2 true
+//Spawned by corey
+-1 10 0 - 5758 4790 2 true
+//Spawned by corey
+6552 10 0 - 5757 4790 2 true
+//Spawned by corey
+6552 10 0 - 5756 4790 2 true
+//Spawned by corey
+-1 10 0 - 5757 4790 2 true
+//Spawned by corey
+-1 10 0 - 5756 4790 2 true
+//Spawned by corey
+6552 10 0 - 5755 4789 2 true
+//Spawned by corey
+28716 10 0 - 5772 4805 2 true
+//Spawned by corey
+28716 10 2 - 5772 4805 2 true
+//Spawned by corey
+28716 10 3 - 5772 4805 2 true
+//Spawned by corey
+28716 10 4 - 5772 4805 2 true
+//Spawned by corey
+-1 10 0 - 5772 4805 2 true
+//Spawned by corey
+28716 10 0 - 5771 4805 2 true
+//Spawned by corey
+37821 10 1 - 5769 4811 2 true
+//Spawned by corey
+37821 10 1 - 5768 4811 2 true
+//Spawned by muda
+6133 10 0 - 3088 3501 0 true
+//Spawned by muda
+0 10 0 - 3104 3429 0 true
+//Spawned by muda
+78321 10 0 - 3086 3497 0 true
+//Spawned by muda
+78321 10 2 - 3089 3540 1 true
+//Spawned by muda
+78322 10 1 - 3088 3541 1 true
+//Spawned by muda
+78323 10 1 - 3088 3540 1 true
+//Spawned by muda
+78324 10 1 - 3086 3540 1 true
+//Spawned by muda
+78325 10 1 - 3084 3540 1 true
+//Spawned by muda
+78326 10 0 - 3086 3538 1 true
+//Spawned by muda
+78327 10 1 - 3088 3538 1 true
+//Spawned by muda
+78328 10 0 - 3089 3538 1 true
+//Spawned by muda
+78328 10 1 - 3089 3538 1 true
+//Spawned by muda
+78328 10 1 - 3090 3539 1 true
+//Spawned by muda
+78329 10 1 - 3090 3540 1 true
+//Spawned by muda
+78329 10 1 - 3090 3541 1 true
+//Spawned by muda
+78329 10 1 - 3090 3541 1 true
+//Spawned by muda
+78329 10 22 - 3090 3541 1 true
+//Spawned by muda
+78328 10 22 - 3091 3539 1 true
+//Spawned by muda
+78330 10 22 - 3091 3540 1 true
+//Spawned by muda
+78330 10 1 - 3091 3540 1 true
+//Spawned by muda
+78331 10 1 - 3088 3543 1 true
+//Spawned by muda
+78332 10 0 - 3086 3500 0 true
+//Spawned by muda
+78332 10 0 - 3087 3500 0 true
+//Spawned by muda
+78332 10 0 - 3086 3500 0 true
+//Spawned by muda
+78332 10 1 - 3087 3499 0 true
+//Spawned by muda
+78332 10 0 - 3087 3499 0 true
+//Spawned by muda
+78332 10 0 - 3086 3499 0 true
+//Spawned by muda
+78332 10 1 - 3086 3500 0 true
+//Spawned by muda
+78332 10 0 - 3087 3500 0 true
+//Spawned by muda
+78332 10 0 - 3086 3500 0 true
+//Spawned by muda
+78180 10 0 - 3087 3498 0 true
+//Spawned by muda
+78180 10 4 - 3087 3498 0 true
+//Spawned by muda
+78180 10 4 - 3087 3498 0 true
+//Spawned by muda
+4457 10 1 - 3087 3497 0 true
+//Spawned by muda
+57352 10 1 - 3087 3498 0 true
+//Spawned by muda
+61886 10 1 - 3086 3498 0 true
+//Spawned by muda
+70463 10 1 - 3086 3496 0 true
+//Spawned by muda
+4457 10 1 - 2274 3075 0 true
+//Spawned by corey
+78331 10 0 - 2511 3515 0 true
+//Spawned by corey
+78330 10 0 - 2508 3521 0 true
+//Spawned by corey
+78330 10 22 - 2506 3523 0 true
+//Spawned by corey
+78330 10 22 - 2506 3521 0 true
+//Spawned by corey
+78326 10 10 - 2504 3521 0 true
+//Spawned by corey
+78322 10 10 - 2505 3521 0 true
+//Spawned by andy
+78331 10 0 - 104 110 0 true
+//Spawned by andy
+78331 10 10 - 104 109 0 true
+//Spawned by andy
+78331 10 0 - 104 108 0 true
+//Spawned by andy
+78330 10 0 - 3087 3500 0 true
+//Spawned by andy
+78330 10 10 - 3087 3499 0 true
+//Spawned by andy
+78331 10 22 - 3087 3497 0 true
+//Spawned by andy
+78331 10 0 - 3087 3496 0 true
+//Spawned by andy
+11700 10 10 - 3087 3492 0 true
+//Spawned by andy
+111700 10 10 - 3087 3491 0 true
+//Spawned by andy
+78332 10 10 - 3086 3497 0 true
+//Spawned by andy
+78332 10 15 - 3087 3495 0 true
+//Spawned by andy
+78332 10 0 - 3087 3496 0 true
+//Spawned by andy
+78332 10 10 - 3087 3497 0 true
+//Spawned by corey
+78332 10 0 - 5756 4801 2 true
+//Spawned by andy
+-1 10 0 - 3662 3220 0 true
+//Spawned by andy
+-1 10 0 - 3662 3218 0 true
+//Spawned by andy
+-1 10 0 - 3655 3213 0 true
+//Spawned by andy
+-1 10 0 - 3655 3212 0 true
+//Spawned by andy
+-1 10 0 - 3654 3212 0 true
+//Spawned by andy
+-1 10 0 - 3654 3213 0 true
+//Spawned by andy
+-1 10 0 - 3654 3225 0 true
+//Spawned by andy
+-1 10 0 - 3671 3225 0 true
+//Spawned by andy
+-1 10 0 - 3670 3226 0 true
+//Spawned by andy
+-1 10 0 - 3670 3225 0 true
+//Spawned by andy
+-1 10 0 - 3670 3212 0 true
+//Spawned by andy
+-1 10 0 - 3657 3215 0 true
+//Spawned by andy
+-1 10 0 - 3657 3223 0 true
+//Spawned by andy
+-1 10 0 - 3648 3221 0 true
+//Spawned by andy
+-1 10 0 - 3649 3221 0 true
+//Spawned by andy
+-1 10 0 - 3649 3220 0 true
+//Spawned by andy
+-1 10 0 - 3649 3220 0 true
+//Spawned by andy
+-1 10 10 - 3651 3223 0 true
+70197 10 0 - 3397 9233 1 false

@@ -1,0 +1,27 @@
+{
+  "name": "The Alchemist",
+  "category": "BOSSES",
+  "aliases": [ "the alchemist" ],
+  "required": [
+    {
+      "id": 29798
+    },
+    {
+      "id": 29800
+    },
+    {
+      "id": 29799
+    },
+    {
+      "id": 29794
+    },
+    {
+      "id": 29795
+    },
+    {
+      "id": 29796
+    }
+  ],
+  "type": "boss",
+  "arg": "16071"
+}

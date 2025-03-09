@@ -1,0 +1,27 @@
+{
+  "name": "Demonic gorilla",
+  "category": "BOSSES",
+  "aliases": [ "demonic gorilla" ],
+  "required": [
+    {
+      "id": 49529
+    },
+    {
+      "id": 49610
+    },
+    {
+      "id": 49589
+    },
+    {
+      "id": 49586
+    },
+    {
+      "id": 49601
+    },
+    {
+      "id": 49592
+    }
+  ],
+  "type": "boss",
+  "arg": "27144"
+}

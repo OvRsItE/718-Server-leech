@@ -1,0 +1,21 @@
+{
+  "name": "King Lava Dragon",
+  "category": "BOSSES",
+  "aliases": [ "kld" ],
+  "required": [
+    {
+      "id": 28840
+    },
+    {
+      "id": 28825
+    },
+    {
+      "id": 28831
+    },
+    {
+      "id": 28747
+    }
+  ],
+  "type": "boss",
+  "arg": "16113"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "K'ril Tsutsaroth",
+  "category": "BOSSES",
+  "aliases": [ "k'ril", "zammy" ],
+  "required": [
+    {
+      "id": 11716
+    },
+    {
+      "id": 29893
+    },
+    {
+      "id": 11708
+    },
+    {
+      "id": 11736
+    },
+    {
+      "id": 29852
+    }
+  ],
+  "type": "boss",
+  "arg": "6203"
+}

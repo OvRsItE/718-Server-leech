@@ -1,0 +1,27 @@
+{
+  "name": "Corporeal Beast",
+  "category": "BOSSES",
+  "aliases": [ "corp" ],
+  "required": [
+    {
+      "id": 13754
+    },
+    {
+      "id": 13752
+    },
+    {
+      "id": 13746
+    },
+    {
+      "id": 13750
+    },
+    {
+      "id": 13748
+    },
+    {
+      "id": 29862
+    }
+  ],
+  "type": "boss",
+  "arg": "8133"
+}

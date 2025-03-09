@@ -1,0 +1,27 @@
+{
+  "name": "King Black Dragon",
+  "category": "BOSSES",
+  "aliases": [ "kbd" ],
+  "required": [
+    {
+      "id": 11286
+    },
+    {
+      "id": 25312
+    },
+    {
+      "id": 25314
+    },
+    {
+      "id": 25316
+    },
+    {
+      "id": 25318
+    },
+    {
+      "id": 29853
+    }
+  ],
+  "type": "boss",
+  "arg": "50"
+}

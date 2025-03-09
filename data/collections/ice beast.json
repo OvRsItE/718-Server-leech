@@ -1,0 +1,21 @@
+{
+  "name": "Ice Beast",
+  "category": "BOSSES",
+  "aliases": [ "icebeast" ],
+  "required": [
+    {
+      "id": 28925
+    },
+    {
+      "id": 28922
+    },
+    {
+      "id": 28924
+    },
+    {
+      "id": 28920
+    }
+  ],
+  "type": "boss",
+  "arg": "16096"
+}

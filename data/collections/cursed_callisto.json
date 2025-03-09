@@ -1,0 +1,27 @@
+{
+  "name": "Cursed Callisto",
+  "category": "BOSSES",
+  "aliases": [ "ccallisto" ],
+  "required": [
+    {
+      "id": 15259
+    },
+    {
+      "id": 29961
+    },
+    {
+      "id": 29509
+    },
+    {
+      "id": 28831
+    },
+    {
+      "id": 28825
+    },
+    {
+      "id": 29613
+    }
+  ],
+  "type": "boss",
+  "arg": "16007"
+}

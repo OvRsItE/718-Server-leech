@@ -1,0 +1,24 @@
+{
+  "name": "Vorkath",
+  "category": "BOSSES",
+  "aliases": [ "vorkath" ],
+  "required": [
+    {
+      "id": 11286
+    },
+    {
+      "id": 52006
+    },
+    {
+      "id": 52111
+    },
+    {
+      "id": 52106
+    },
+    {
+      "id": 51992
+    }
+  ],
+  "type": "boss",
+  "arg": "28060"
+}

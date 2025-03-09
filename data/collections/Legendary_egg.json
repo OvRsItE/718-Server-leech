@@ -1,0 +1,30 @@
+{
+  "name": "Legendary Egg",
+  "category": "OTHER",
+  "aliases": [ "legg" ],
+  "required": [
+    {
+      "id": 28819
+    },
+    {
+      "id": 28820
+    },
+    {
+      "id": 28821
+    },
+    {
+      "id": 28823
+    },
+    {
+      "id": 28818
+    },
+    {
+      "id": 28822
+    },
+    {
+      "id": 28824
+    }
+  ],
+  "type": "OTHER",
+  "arg": "legg"
+}

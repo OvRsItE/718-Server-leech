@@ -1,0 +1,24 @@
+{
+  "name": "Lord Of Lightning",
+  "category": "BOSSES",
+  "aliases": [ "lord" ],
+  "required": [
+    {
+      "id": 28979
+    },
+    {
+      "id": 28957
+    },
+    {
+      "id": 28956
+    },
+    {
+      "id": 28955
+    },
+    {
+      "id": 28948
+    }
+  ],
+  "type": "boss",
+  "arg": "16087"
+}

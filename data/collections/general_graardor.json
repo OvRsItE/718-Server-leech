@@ -1,0 +1,27 @@
+{
+  "name": "General Graardor",
+  "category": "BOSSES",
+  "aliases": [ "bandos", "graardor" ],
+  "required": [
+    {
+      "id": 25022
+    },
+    {
+      "id": 11724
+    },
+    {
+      "id": 11726
+    },
+    {
+      "id": 25025
+    },
+    {
+      "id": 11728
+    },
+    {
+      "id": 29851
+    }
+  ],
+  "type": "boss",
+  "arg": "6260"
+}

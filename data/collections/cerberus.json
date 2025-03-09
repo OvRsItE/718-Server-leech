@@ -1,0 +1,27 @@
+{
+  "name": "Cerberus",
+  "category": "BOSSES",
+  "aliases": [ "cerb" ],
+  "required": [
+    {
+      "id": 43227
+    },
+    {
+      "id": 43229
+    },
+    {
+      "id": 43231
+    },
+    {
+      "id": 43233
+    },
+    {
+      "id": 43245
+    },
+    {
+      "id": 43247
+    }
+  ],
+  "type": "boss",
+  "arg": "25862"
+}

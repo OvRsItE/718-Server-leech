@@ -1,0 +1,27 @@
+{
+  "name": "Commander zilyana",
+  "category": "BOSSES",
+  "aliases": [ "zily", "saradomin" ],
+  "required": [
+    {
+      "id": 11706
+    },
+    {
+      "id": 25037
+    },
+    {
+      "id": 25028
+    },
+    {
+      "id": 25031
+    },
+    {
+      "id": 25034
+    },
+    {
+      "id": 29849
+    }
+  ],
+  "type": "boss",
+  "arg": "6247"
+}

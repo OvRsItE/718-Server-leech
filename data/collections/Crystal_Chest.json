@@ -1,0 +1,12 @@
+{
+  "name": "Crystal Chest",
+  "category": "OTHER",
+  "aliases": [ "cchest" ],
+  "required": [
+    {
+      "id": 19784
+    }
+  ],
+  "type": "OTHER",
+  "arg": "cchest"
+}

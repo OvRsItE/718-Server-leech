@@ -1,0 +1,33 @@
+{
+  "name": "Alchemical Hydra",
+  "category": "BOSSES",
+  "aliases": [ "hydra" ],
+  "required": [
+    {
+      "id": 52983
+    },
+    {
+      "id": 52966
+    },
+    {
+      "id": 52988
+    },
+    {
+      "id": 52969
+    },
+    {
+      "id": 52971
+    },
+    {
+      "id": 52973
+    },
+    {
+      "id": 53064
+    },
+    {
+      "id": 52746
+    }
+  ],
+  "type": "boss",
+  "arg": "28615"
+}

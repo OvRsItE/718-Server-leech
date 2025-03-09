@@ -1,0 +1,15 @@
+{
+  "name": "Kalphite Queen",
+  "category": "BOSSES",
+  "aliases": [ "kq" ],
+  "required": [
+    {
+      "id": 7158
+    },
+    {
+      "id": 29848
+    }
+  ],
+  "type": "boss",
+  "arg": "4234"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Chambers of Xeric",
+  "category": "RAIDS",
+  "aliases": [ "xeric", "olm", "chambers" ],
+  "required": [
+    {
+      "id": 29943
+    },
+    {
+      "id": 14484
+    },
+    {
+      "id": 51003
+    },
+    {
+      "id": 29743
+    },
+    {
+      "id": 29491
+    },
+    {
+      "id": 29493
+    },
+    {
+      "id": 29489
+    },
+    {
+      "id": 29747
+    },
+    {
+      "id": 29745
+    },
+    {
+      "id": 29864
+    },
+    {
+      "id": 29897
+    },
+    {
+      "id": 29868
+    }
+  ],
+  "type": "raids",
+  "arg": "xeric"
+}
