@@ -1,0 +1,18 @@
+//Nex spawned by elite
+13450 - 2910 2729 2
+//null spawned by snowflex
+102645 - 2519 3042 0
+//null spawned by snowflex
+17257 - 2520 3042 0
+//Ice troll spawned by snowflex
+10790 - 2523 3041 0
+//Lava strykewyrm spawned by andy
+16153 - 3642 2613 0
+//Lava strykewyrm spawned by andy
+16153 - 3641 2614 0
+//Big h'ween mbox spawned by andy
+16150 - 3641 2614 0
+//Dark sire spawned by andy
+16148 - 3640 2613 0
+//Big h'ween mbox spawned by andy
+16150 - 3640 2613 0

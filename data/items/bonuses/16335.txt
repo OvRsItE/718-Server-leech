@@ -1,0 +1,22 @@
+Attack Bonus
+7928
+7928
+7928
+7928
+7928
+Defense Bonus
+27856
+27856
+27856
+27856
+27856
+27856
+Damage Absorption
+0
+0
+0
+Other Bonuses
+22000
+24464
+24464
+24464
